@@ -1,0 +1,54 @@
+{
+  "version": 2,
+  "dgSpecHash": "RNwCvr0w+ygndeaISsIxNWJxiQMgFguz1zaJONpb2V0Xlxy8RXmgLrUgZUEH2C2yeYyUzz1z49qXpAC+LNshRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\1lkhvm\\Desktop\\Cmsd\\Cmsd\\Cmsd.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1lkhvm\\.nuget\\packages\\baseline\\3.2.2\\baseline.3.2.2.nupkg.sha512",
+    "C:\\Users\\1lkhvm\\.nuget\\packages\\commonservicelocator\\2.0.5\\commonservicelocator.2.0.5.nupkg.sha512",
+    "C:\\Users\\1lkhvm\\.nuget\\packages\\dryioc.webapi.dll\\4.1.0\\dryioc.webapi.dll.4.1.0.nupkg.sha512",
+    "C:\\Users\\1lkhvm\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\1lkhvm\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\1lkhvm\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\1lkhvm\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\1lkhvm\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\1lkhvm\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\1lkhvm\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\1lkhvm\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\1lkhvm\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\1lkhvm\\.nuget\\packages\\system.collections.immutable\\1.3.1\\system.collections.immutable.1.3.1.nupkg.sha512",
+    "C:\\Users\\1lkhvm\\.nuget\\packages\\system.diagnostics.debug\\4.3.0\\system.diagnostics.debug.4.3.0.nupkg.sha512",
+    "C:\\Users\\1lkhvm\\.nuget\\packages\\system.globalization\\4.3.0\\system.globalization.4.3.0.nupkg.sha512",
+    "C:\\Users\\1lkhvm\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\1lkhvm\\.nuget\\packages\\system.linq\\4.3.0\\system.linq.4.3.0.nupkg.sha512",
+    "C:\\Users\\1lkhvm\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\1lkhvm\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\1lkhvm\\.nuget\\packages\\system.resources.resourcemanager\\4.3.0\\system.resources.resourcemanager.4.3.0.nupkg.sha512",
+    "C:\\Users\\1lkhvm\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\1lkhvm\\.nuget\\packages\\system.runtime.extensions\\4.3.0\\system.runtime.extensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\1lkhvm\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\1lkhvm\\.nuget\\packages\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512",
+    "C:\\Users\\1lkhvm\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
+    "C:\\Users\\1lkhvm\\.nuget\\packages\\uno.core\\4.0.1\\uno.core.4.0.1.nupkg.sha512",
+    "C:\\Users\\1lkhvm\\.nuget\\packages\\uno.core.extensions\\4.0.1\\uno.core.extensions.4.0.1.nupkg.sha512",
+    "C:\\Users\\1lkhvm\\.nuget\\packages\\uno.core.extensions.collections\\4.0.1\\uno.core.extensions.collections.4.0.1.nupkg.sha512",
+    "C:\\Users\\1lkhvm\\.nuget\\packages\\uno.core.extensions.compatibility\\4.0.1\\uno.core.extensions.compatibility.4.0.1.nupkg.sha512",
+    "C:\\Users\\1lkhvm\\.nuget\\packages\\uno.core.extensions.disposables\\4.0.1\\uno.core.extensions.disposables.4.0.1.nupkg.sha512",
+    "C:\\Users\\1lkhvm\\.nuget\\packages\\uno.core.extensions.equality\\4.0.1\\uno.core.extensions.equality.4.0.1.nupkg.sha512",
+    "C:\\Users\\1lkhvm\\.nuget\\packages\\uno.core.extensions.logging\\4.0.1\\uno.core.extensions.logging.4.0.1.nupkg.sha512",
+    "C:\\Users\\1lkhvm\\.nuget\\packages\\uno.core.extensions.logging.singleton\\4.0.1\\uno.core.extensions.logging.singleton.4.0.1.nupkg.sha512",
+    "C:\\Users\\1lkhvm\\.nuget\\packages\\uno.core.extensions.threading\\4.0.1\\uno.core.extensions.threading.4.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "'DryIoc.WebApi.dll 4.1.0' paketi, proje hedef çerçevesi 'net6.0' yerine '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' kullanılarak geri yüklendi. Bu paket projenizle tamamen uyumlu olmayabilir.",
+      "libraryId": "DryIoc.WebApi.dll",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
